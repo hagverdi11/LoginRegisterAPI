@@ -1,0 +1,28 @@
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\bin\Debug\net6.0\DomainLayer.runtimeconfig.json
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\obj\Debug\net6.0\DomainLayer.genruntimeconfig.cache
+C:\Users\HP\Desktop\Api\Homework 1\API Intro\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\bin\Debug\net6.0\DomainLayer.runtimeconfig.json
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\obj\Debug\net6.0\DomainLayer.genruntimeconfig.cache
+C:\Users\HP\Desktop\API_CRUD\API CRUD\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
